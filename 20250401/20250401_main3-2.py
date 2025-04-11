@@ -1,3 +1,4 @@
+#input을 이용한 조건문
 a = int(input("a > "))
 b = int(input("b > "))
 

@@ -1,3 +1,4 @@
+#in 조건문
 number = input("정수 입력> ")
 last_char = number[-1]
 last_number = int(last_char)

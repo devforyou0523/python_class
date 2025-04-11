@@ -1,3 +1,4 @@
+#float를 이용한 조건문
 score = float(input())
 
 if (score == 4.5):

@@ -1,3 +1,4 @@
+#외부 라이브러리 사용 (datetime)
 import datetime
 
 now = datetime.datetime.now()

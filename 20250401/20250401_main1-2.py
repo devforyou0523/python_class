@@ -1,3 +1,4 @@
+#datetime 라이브러리를 이용한 조건문 1
 import datetime
 
 now = datetime.datetime.now() #이게 뭐야

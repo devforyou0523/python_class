@@ -1,3 +1,4 @@
+#while문
 i = 0
 
 while (i<10):

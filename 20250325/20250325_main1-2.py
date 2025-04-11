@@ -1,3 +1,4 @@
+#f-string 방식 출력
 output_a =  "{:5d}".format(52)
 print (output_a)
 a = "안녕하세요"

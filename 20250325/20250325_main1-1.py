@@ -1,3 +1,4 @@
+#format의 다양한 사용법
 string_a = "{}".format(10)
 
 print(string_a)
