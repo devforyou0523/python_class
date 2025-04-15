@@ -4,7 +4,8 @@ min_number = 0
 for i in range(len(list_a)):
     print(f"검사대상은 {list_a[i]}입니다.")
     for j in range(len(list_a)):
-        print(f"검사대상은 {list_a[i]}, 비교대상은 {list_a[j]} 입니다.")
+        min_number = list_a[j]
+        print(f"검사대상은 {list_a[i]}, 비교대상은 {min_number} 입니다.")
         if list_a[i] == list_a[j]:
             print("검사대상과 비교대상이 같습니다. 검사대상이 최저숫자입니다. 다음 비교대상으로 넘어갑니다.")
             min_number = list_a[i]
