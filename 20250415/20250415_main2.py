@@ -1,3 +1,5 @@
+#enumerate 함수를 이용한 리스트 변환
+
 list_a = ["요소1", "요소2", "요소3"]
 
 print(list_a)
